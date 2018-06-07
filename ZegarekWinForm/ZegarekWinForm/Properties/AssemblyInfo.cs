@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Ogólne informacje o zestawie są kontrolowane poprzez następujący 
 // zestaw atrybutów. Zmień wartości tych atrybutów, aby zmodyfikować informacje
 // powiązane z zestawem.
-[assembly: AssemblyTitle("KatGodzinaMinuta")]
+[assembly: AssemblyTitle("ZegarekWinForm")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("KatGodzinaMinuta")]
+[assembly: AssemblyProduct("ZegarekWinForm")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Następujący identyfikator GUID jest identyfikatorem biblioteki typów w przypadku udostępnienia tego projektu w modelu COM
-[assembly: Guid("ea3d3b79-5735-46a1-a8fe-7a1ff18e4614")]
+[assembly: Guid("28fa7e2f-a76c-43cb-a2fd-6a96c6e9ba14")]
 
 // Informacje o wersji zestawu zawierają następujące cztery wartości:
 //
